@@ -1,6 +1,6 @@
 ## 🏨 Otel Rezervasiyası Backend API
 
-Salam! Bu proqram otel otaqlarının idarə olunması və rezerv edilməsi üçün yazdığım təmiz və etibarlı bir Backend API layihəsidir.
+Salam, bu proqram otel otaqlarının idarə olunması və rezerv edilməsi üçün yazdığım bir Backend API layihəsidir.
 
 ## 🛠️ İstifadə etdiyim texnologiyalar
 - Node.js & Express
@@ -14,7 +14,7 @@ Salam! Bu proqram otel otaqlarının idarə olunması və rezerv edilməsi üç�
 - Qeydiyyat və Giriş: İstifadəçilər sistemə qoşulub token ala bilirlər.
 - Rollar (USER və ADMIN): Admin otaqları və istifadəçiləri idarə edə bilir.
 - Otaq Axtarışı: Müştəri istədiyi tarix aralığını daxil edərək həmin vaxt boş olan otaqları tapa bilir.
-- Rezervasiya Qaydası: Eyni otaq eyni tarixlərdə başqası tərəfindən tutulubursa, sistem avtomatik kəsişmənin qarşısını alır.
+- Rezervasiya Qaydası: Eyni otaq eyni tarixlərdə başqası tərəfindən tutulubdursa, sistem avtomatik kəsişmənin qarşısını alır.
 
 ---
 
